@@ -2,7 +2,8 @@
 Bookmarklet to remove em dashes from any webpage. Works on WordPress, Shopify, Webflow, Framer, Notion and any CMS.
 A lightweight browser bookmarklet that removes em dashes from any webpage and replaces them with contextually correct punctuation. One click, works on any page, no install required.
 
-[Download em-dash-remover.html](https://raw.githubusercontent.com/smarkety/Em-Dash-Remover/main/em-dash-remover.html)
+## Download
+Go to [em-dash-remover.html](./em-dash-remover.html), click the download icon (⬇) top right.
 
 ---
 
